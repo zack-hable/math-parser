@@ -1,4 +1,4 @@
-<? php
+<?php
 /*
 * @package     Parsing
 * @author      Frank Wikström <frank@mossadal.se>
